@@ -1,2 +1,2 @@
-# Project-rent-1.0
- rent info
+# Simple-Rental-Service Example
+Using HTML and SCSS and JS (Simple-Rental-Service Example)
